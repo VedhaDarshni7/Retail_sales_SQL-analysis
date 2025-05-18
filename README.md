@@ -1,26 +1,35 @@
-# Retail Sales SQL Analysis
+# 🛒 SQL Project: Retail Sales Analysis
 
-This project showcases an intermediate SQL analysis on a fictional retail database using PostgreSQL.
+An intermediate-level SQL project that analyzes sales data for a fictional retail company. Includes schema design, sample data, and analytical queries for insights.
 
-## Features
+---
 
-- Sales by category and region
-- Top products by revenue
-- Basket size analysis
-- Use of joins, aggregations, and window functions
+## 📂 Files
 
-## Files
+- `schema.sql` – SQL script to create the database tables.
+- `data.sql` – Sample data for each table.
+- `queries.sql` – Analytical queries to derive insights from the data.
 
-- `schema.sql`: Table creation scripts
-- `data.sql`: Sample data
-- `queries.sql`: Business queries for insights
+---
 
-## How to Run
+## 🔍 Key Analyses
 
-1. Open PostgreSQL or DB Fiddle.
-2. Run `schema.sql` → then `data.sql`.
-3. Run `queries.sql` to view results.
+- Top-selling products by revenue
+- Monthly sales by product category
+- Customer basket size and regional revenue
+- Most sold product in each category
 
-## Author
+---
+
+## 💡 Tools Used
+
+- PostgreSQL (or compatible SQL engine)
+- GitHub for version control
+- [DB Fiddle](https://www.db-fiddle.com/) or local SQL editor
+
+---
+
+## 👩‍💻 Author
+
 
 VEDHA DARSHNI.S.R – [LinkedIn](https://www.linkedin.com/in/vedha-darshni-s-r-b1200935b/)
